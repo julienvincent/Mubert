@@ -31,7 +31,7 @@ class App extends Component {
             selected: 600
         }
     }
-    
+
     togglePlay = () => {
         const {playing, url} = this.state
 
