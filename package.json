@@ -7,10 +7,13 @@
     "ios": "react-native run-ios"
   },
   "dependencies": {
+    "lodash": "^4.15.0",
     "react": "15.3.1",
-    "react-native": "0.30.0",
-    "react-native-audio-streaming": "^2.1.0",
+    "react-native": "^0.33.0",
     "react-native-ios-network-audio": "0.0.9",
     "react-native-vector-icons": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1"
   }
 }

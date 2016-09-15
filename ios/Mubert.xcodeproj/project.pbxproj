@@ -22,33 +22,32 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
-		16C87E751D898749009142C1 /* din_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E6E1D898749009142C1 /* din_bold.ttf */; };
-		16C87E761D898749009142C1 /* din_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E6F1D898749009142C1 /* din_light.ttf */; };
-		16C87E771D898749009142C1 /* din_regular.woff in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E701D898749009142C1 /* din_regular.woff */; };
-		16C87E781D898749009142C1 /* mubert.svg in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E711D898749009142C1 /* mubert.svg */; };
-		16C87E791D898749009142C1 /* mubert.woff in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E721D898749009142C1 /* mubert.woff */; };
-		16C87E7A1D898749009142C1 /* mubert_alchemy.woff in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E731D898749009142C1 /* mubert_alchemy.woff */; };
-		16C87E7B1D898749009142C1 /* play.svg in Resources */ = {isa = PBXBuildFile; fileRef = 16C87E741D898749009142C1 /* play.svg */; };
-		16C87E9B1D898768009142C1 /* NSMutableArray+STKAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E891D898768009142C1 /* NSMutableArray+STKAudioPlayer.m */; };
-		16C87E9C1D898768009142C1 /* STKAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E8B1D898768009142C1 /* STKAudioPlayer.m */; };
-		16C87E9D1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E8D1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.m */; };
-		16C87E9E1D898768009142C1 /* STKCoreFoundationDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E8F1D898768009142C1 /* STKCoreFoundationDataSource.m */; };
-		16C87E9F1D898768009142C1 /* STKDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E911D898768009142C1 /* STKDataSource.m */; };
-		16C87EA01D898768009142C1 /* STKDataSourceWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E931D898768009142C1 /* STKDataSourceWrapper.m */; };
-		16C87EA11D898768009142C1 /* STKHTTPDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E951D898768009142C1 /* STKHTTPDataSource.m */; };
-		16C87EA21D898768009142C1 /* STKLocalFileDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E971D898768009142C1 /* STKLocalFileDataSource.m */; };
-		16C87EA31D898768009142C1 /* STKQueueEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87E991D898768009142C1 /* STKQueueEntry.m */; };
-		16C87EA71D898770009142C1 /* AudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 16C87EA61D898770009142C1 /* AudioManager.m */; };
-		1CD73A4682D44FA984EAFE60 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7592829CD9BD4DE6B3F9D37A /* FontAwesome.ttf */; };
-		272F62CA0A7E4637AE24F4F0 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D1D8448B06F4DCAB4865D90 /* libRNVectorIcons.a */; };
-		2C84056EB073425EA9AC6C73 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 649D42D1FDD1495B85C03387 /* Octicons.ttf */; };
-		691FD98082AA4FBDA19032B1 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97187D8418F14A018B6529A8 /* MaterialIcons.ttf */; };
-		6BA5270579BD43C28C1AF8D0 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A304ED59E65549A38AE93FAE /* Ionicons.ttf */; };
+		169351AF1D8ABE04008B77BB /* AudioManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1693519A1D8ABE04008B77BB /* AudioManager.m */; };
+		169351B01D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1693519D1D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.m */; };
+		169351B11D8ABE04008B77BB /* STKAudioPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1693519F1D8ABE04008B77BB /* STKAudioPlayer.m */; };
+		169351B21D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351A11D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.m */; };
+		169351B31D8ABE04008B77BB /* STKCoreFoundationDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351A31D8ABE04008B77BB /* STKCoreFoundationDataSource.m */; };
+		169351B41D8ABE04008B77BB /* STKDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351A51D8ABE04008B77BB /* STKDataSource.m */; };
+		169351B51D8ABE04008B77BB /* STKDataSourceWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351A71D8ABE04008B77BB /* STKDataSourceWrapper.m */; };
+		169351B61D8ABE04008B77BB /* STKHTTPDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351A91D8ABE04008B77BB /* STKHTTPDataSource.m */; };
+		169351B71D8ABE04008B77BB /* STKLocalFileDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351AB1D8ABE04008B77BB /* STKLocalFileDataSource.m */; };
+		169351B81D8ABE04008B77BB /* STKQueueEntry.m in Sources */ = {isa = PBXBuildFile; fileRef = 169351AD1D8ABE04008B77BB /* STKQueueEntry.m */; };
+		169351E41D8AC452008B77BB /* din_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 169351DE1D8AC451008B77BB /* din_bold.ttf */; };
+		169351E51D8AC452008B77BB /* din_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 169351DF1D8AC451008B77BB /* din_light.ttf */; };
+		169351E61D8AC452008B77BB /* din_regular.woff in Resources */ = {isa = PBXBuildFile; fileRef = 169351E01D8AC451008B77BB /* din_regular.woff */; };
+		169351E71D8AC452008B77BB /* Icomoon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 169351E11D8AC452008B77BB /* Icomoon.ttf */; };
+		169351E81D8AC452008B77BB /* mubert.woff in Resources */ = {isa = PBXBuildFile; fileRef = 169351E21D8AC452008B77BB /* mubert.woff */; };
+		169351E91D8AC452008B77BB /* mubert_alchemy.woff in Resources */ = {isa = PBXBuildFile; fileRef = 169351E31D8AC452008B77BB /* mubert_alchemy.woff */; };
+		552CF09C578B44BD93CA24F2 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F27CDF27ABB4A6690D4E5AD /* MaterialIcons.ttf */; };
+		699A7B40BCF3411B84D50DB2 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3C619AE3B6A40A0B3C0C91B /* Ionicons.ttf */; };
+		6B9587F944C74775BC3DD607 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D5D6BFD578AC46499BB32E75 /* Octicons.ttf */; };
+		7CCE6F2ACC6749A99A0B250A /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82510ED082C84487AFF0B362 /* Zocial.ttf */; };
+		7F45BC2BBCE0488182227B63 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 062AAE2830604065829F4153 /* Entypo.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		983F38B37A954062ACF64D7B /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56B081FF3B684481B008347B /* Entypo.ttf */; };
-		AD0458032AD34944AAEEBEF6 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1505A55186AF4072B7B2BD54 /* Foundation.ttf */; };
-		F05E9894069649448AC2AE52 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9CF14EA4DAE745139F6CDAEE /* Zocial.ttf */; };
-		F5EFA474E61644AC9EFD6F30 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B83278E300124429B24AD0EC /* EvilIcons.ttf */; };
+		9AF01076CC6C4A66A79CF316 /* libRNVectorIcons.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 40A922BD6BBB451E8743CB91 /* libRNVectorIcons.a */; };
+		BE571F6846F5450D8301E976 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 28D65786AD58499192951762 /* Foundation.ttf */; };
+		D531869062F74E7485B04170 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1884DF97996C4D11B4458DB8 /* FontAwesome.ttf */; };
+		D60F04433D364D50AA697A3F /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD64088A06EF4526991841E2 /* EvilIcons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -115,9 +114,9 @@
 			remoteGlobalIDString = 83CBBA2E1A601D0E00E9B192;
 			remoteInfo = React;
 		};
-		16C87E601D898726009142C1 /* PBXContainerItemProxy */ = {
+		169351D01D8ABF74008B77BB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6315690B5DA24BF582B10F63 /* RNVectorIcons.xcodeproj */;
+			containerPortal = BDB5B2D6EC5D4631B497060B /* RNVectorIcons.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 5DBEB1501B18CEA900B34395;
 			remoteInfo = RNVectorIcons;
@@ -148,6 +147,7 @@
 		00E356EE1AD99517003FC87E /* MubertTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MubertTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* MubertTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MubertTests.m; sourceTree = "<group>"; };
+		062AAE2830604065829F4153 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* Mubert.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mubert.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -158,46 +158,44 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Mubert/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Mubert/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
-		1505A55186AF4072B7B2BD54 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
-		16C87E6E1D898749009142C1 /* din_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_bold.ttf; sourceTree = "<group>"; };
-		16C87E6F1D898749009142C1 /* din_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_light.ttf; sourceTree = "<group>"; };
-		16C87E701D898749009142C1 /* din_regular.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_regular.woff; sourceTree = "<group>"; };
-		16C87E711D898749009142C1 /* mubert.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = mubert.svg; sourceTree = "<group>"; };
-		16C87E721D898749009142C1 /* mubert.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = mubert.woff; sourceTree = "<group>"; };
-		16C87E731D898749009142C1 /* mubert_alchemy.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = mubert_alchemy.woff; sourceTree = "<group>"; };
-		16C87E741D898749009142C1 /* play.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = play.svg; sourceTree = "<group>"; };
-		16C87E881D898768009142C1 /* NSMutableArray+STKAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+STKAudioPlayer.h"; sourceTree = "<group>"; };
-		16C87E891D898768009142C1 /* NSMutableArray+STKAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+STKAudioPlayer.m"; sourceTree = "<group>"; };
-		16C87E8A1D898768009142C1 /* STKAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKAudioPlayer.h; sourceTree = "<group>"; };
-		16C87E8B1D898768009142C1 /* STKAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKAudioPlayer.m; sourceTree = "<group>"; };
-		16C87E8C1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKAutoRecoveringHTTPDataSource.h; sourceTree = "<group>"; };
-		16C87E8D1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKAutoRecoveringHTTPDataSource.m; sourceTree = "<group>"; };
-		16C87E8E1D898768009142C1 /* STKCoreFoundationDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKCoreFoundationDataSource.h; sourceTree = "<group>"; };
-		16C87E8F1D898768009142C1 /* STKCoreFoundationDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKCoreFoundationDataSource.m; sourceTree = "<group>"; };
-		16C87E901D898768009142C1 /* STKDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKDataSource.h; sourceTree = "<group>"; };
-		16C87E911D898768009142C1 /* STKDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKDataSource.m; sourceTree = "<group>"; };
-		16C87E921D898768009142C1 /* STKDataSourceWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKDataSourceWrapper.h; sourceTree = "<group>"; };
-		16C87E931D898768009142C1 /* STKDataSourceWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKDataSourceWrapper.m; sourceTree = "<group>"; };
-		16C87E941D898768009142C1 /* STKHTTPDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKHTTPDataSource.h; sourceTree = "<group>"; };
-		16C87E951D898768009142C1 /* STKHTTPDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKHTTPDataSource.m; sourceTree = "<group>"; };
-		16C87E961D898768009142C1 /* STKLocalFileDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKLocalFileDataSource.h; sourceTree = "<group>"; };
-		16C87E971D898768009142C1 /* STKLocalFileDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKLocalFileDataSource.m; sourceTree = "<group>"; };
-		16C87E981D898768009142C1 /* STKQueueEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKQueueEntry.h; sourceTree = "<group>"; };
-		16C87E991D898768009142C1 /* STKQueueEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKQueueEntry.m; sourceTree = "<group>"; };
-		16C87E9A1D898768009142C1 /* StreamingKit-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "StreamingKit-Prefix.pch"; sourceTree = "<group>"; };
-		16C87EA51D898770009142C1 /* AudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioManager.h; sourceTree = "<group>"; };
-		16C87EA61D898770009142C1 /* AudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioManager.m; sourceTree = "<group>"; };
-		56B081FF3B684481B008347B /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
-		6315690B5DA24BF582B10F63 /* RNVectorIcons.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNVectorIcons.xcodeproj; path = "../node_modules/react-native-vector-icons/RNVectorIcons.xcodeproj"; sourceTree = "<group>"; };
-		649D42D1FDD1495B85C03387 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		7592829CD9BD4DE6B3F9D37A /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		169351991D8ABE04008B77BB /* AudioManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AudioManager.h; sourceTree = "<group>"; };
+		1693519A1D8ABE04008B77BB /* AudioManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AudioManager.m; sourceTree = "<group>"; };
+		1693519C1D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableArray+STKAudioPlayer.h"; sourceTree = "<group>"; };
+		1693519D1D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableArray+STKAudioPlayer.m"; sourceTree = "<group>"; };
+		1693519E1D8ABE04008B77BB /* STKAudioPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKAudioPlayer.h; sourceTree = "<group>"; };
+		1693519F1D8ABE04008B77BB /* STKAudioPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKAudioPlayer.m; sourceTree = "<group>"; };
+		169351A01D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKAutoRecoveringHTTPDataSource.h; sourceTree = "<group>"; };
+		169351A11D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKAutoRecoveringHTTPDataSource.m; sourceTree = "<group>"; };
+		169351A21D8ABE04008B77BB /* STKCoreFoundationDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKCoreFoundationDataSource.h; sourceTree = "<group>"; };
+		169351A31D8ABE04008B77BB /* STKCoreFoundationDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKCoreFoundationDataSource.m; sourceTree = "<group>"; };
+		169351A41D8ABE04008B77BB /* STKDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKDataSource.h; sourceTree = "<group>"; };
+		169351A51D8ABE04008B77BB /* STKDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKDataSource.m; sourceTree = "<group>"; };
+		169351A61D8ABE04008B77BB /* STKDataSourceWrapper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKDataSourceWrapper.h; sourceTree = "<group>"; };
+		169351A71D8ABE04008B77BB /* STKDataSourceWrapper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKDataSourceWrapper.m; sourceTree = "<group>"; };
+		169351A81D8ABE04008B77BB /* STKHTTPDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKHTTPDataSource.h; sourceTree = "<group>"; };
+		169351A91D8ABE04008B77BB /* STKHTTPDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKHTTPDataSource.m; sourceTree = "<group>"; };
+		169351AA1D8ABE04008B77BB /* STKLocalFileDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKLocalFileDataSource.h; sourceTree = "<group>"; };
+		169351AB1D8ABE04008B77BB /* STKLocalFileDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKLocalFileDataSource.m; sourceTree = "<group>"; };
+		169351AC1D8ABE04008B77BB /* STKQueueEntry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STKQueueEntry.h; sourceTree = "<group>"; };
+		169351AD1D8ABE04008B77BB /* STKQueueEntry.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STKQueueEntry.m; sourceTree = "<group>"; };
+		169351AE1D8ABE04008B77BB /* StreamingKit-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "StreamingKit-Prefix.pch"; sourceTree = "<group>"; };
+		169351DE1D8AC451008B77BB /* din_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_bold.ttf; sourceTree = "<group>"; };
+		169351DF1D8AC451008B77BB /* din_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_light.ttf; sourceTree = "<group>"; };
+		169351E01D8AC451008B77BB /* din_regular.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = din_regular.woff; sourceTree = "<group>"; };
+		169351E11D8AC452008B77BB /* Icomoon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Icomoon.ttf; sourceTree = "<group>"; };
+		169351E21D8AC452008B77BB /* mubert.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = mubert.woff; sourceTree = "<group>"; };
+		169351E31D8AC452008B77BB /* mubert_alchemy.woff */ = {isa = PBXFileReference; lastKnownFileType = file; path = mubert_alchemy.woff; sourceTree = "<group>"; };
+		1884DF97996C4D11B4458DB8 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		28D65786AD58499192951762 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		40A922BD6BBB451E8743CB91 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
+		6F27CDF27ABB4A6690D4E5AD /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
+		82510ED082C84487AFF0B362 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
-		8D1D8448B06F4DCAB4865D90 /* libRNVectorIcons.a */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = archive.ar; path = libRNVectorIcons.a; sourceTree = "<group>"; };
-		97187D8418F14A018B6529A8 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
-		9CF14EA4DAE745139F6CDAEE /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
-		A304ED59E65549A38AE93FAE /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
-		B83278E300124429B24AD0EC /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		AD64088A06EF4526991841E2 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		B3C619AE3B6A40A0B3C0C91B /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		BDB5B2D6EC5D4631B497060B /* RNVectorIcons.xcodeproj */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = "wrapper.pb-project"; name = RNVectorIcons.xcodeproj; path = "../node_modules/react-native-vector-icons/RNVectorIcons.xcodeproj"; sourceTree = "<group>"; };
+		D5D6BFD578AC46499BB32E75 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -223,7 +221,7 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				272F62CA0A7E4637AE24F4F0 /* libRNVectorIcons.a in Frameworks */,
+				9AF01076CC6C4A66A79CF316 /* libRNVectorIcons.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -306,8 +304,7 @@
 		13B07FAE1A68108700A75B9A /* Mubert */ = {
 			isa = PBXGroup;
 			children = (
-				16C87EA41D898770009142C1 /* AudioManager */,
-				16C87E871D898768009142C1 /* StreamingKit */,
+				169351971D8ABE04008B77BB /* swift */,
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
@@ -327,64 +324,71 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		16C87E531D898726009142C1 /* Products */ = {
+		169351971D8ABE04008B77BB /* swift */ = {
 			isa = PBXGroup;
 			children = (
-				16C87E611D898726009142C1 /* libRNVectorIcons.a */,
+				169351981D8ABE04008B77BB /* AudioManager */,
+				1693519B1D8ABE04008B77BB /* StreamingKit */,
+			);
+			name = swift;
+			path = ../app/swift;
+			sourceTree = "<group>";
+		};
+		169351981D8ABE04008B77BB /* AudioManager */ = {
+			isa = PBXGroup;
+			children = (
+				169351991D8ABE04008B77BB /* AudioManager.h */,
+				1693519A1D8ABE04008B77BB /* AudioManager.m */,
+			);
+			path = AudioManager;
+			sourceTree = "<group>";
+		};
+		1693519B1D8ABE04008B77BB /* StreamingKit */ = {
+			isa = PBXGroup;
+			children = (
+				1693519C1D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.h */,
+				1693519D1D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.m */,
+				1693519E1D8ABE04008B77BB /* STKAudioPlayer.h */,
+				1693519F1D8ABE04008B77BB /* STKAudioPlayer.m */,
+				169351A01D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.h */,
+				169351A11D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.m */,
+				169351A21D8ABE04008B77BB /* STKCoreFoundationDataSource.h */,
+				169351A31D8ABE04008B77BB /* STKCoreFoundationDataSource.m */,
+				169351A41D8ABE04008B77BB /* STKDataSource.h */,
+				169351A51D8ABE04008B77BB /* STKDataSource.m */,
+				169351A61D8ABE04008B77BB /* STKDataSourceWrapper.h */,
+				169351A71D8ABE04008B77BB /* STKDataSourceWrapper.m */,
+				169351A81D8ABE04008B77BB /* STKHTTPDataSource.h */,
+				169351A91D8ABE04008B77BB /* STKHTTPDataSource.m */,
+				169351AA1D8ABE04008B77BB /* STKLocalFileDataSource.h */,
+				169351AB1D8ABE04008B77BB /* STKLocalFileDataSource.m */,
+				169351AC1D8ABE04008B77BB /* STKQueueEntry.h */,
+				169351AD1D8ABE04008B77BB /* STKQueueEntry.m */,
+				169351AE1D8ABE04008B77BB /* StreamingKit-Prefix.pch */,
+			);
+			path = StreamingKit;
+			sourceTree = "<group>";
+		};
+		169351C31D8ABF74008B77BB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				169351D11D8ABF74008B77BB /* libRNVectorIcons.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		16C87E6D1D898749009142C1 /* resources */ = {
+		169351DD1D8AC451008B77BB /* fonts */ = {
 			isa = PBXGroup;
 			children = (
-				16C87E6E1D898749009142C1 /* din_bold.ttf */,
-				16C87E6F1D898749009142C1 /* din_light.ttf */,
-				16C87E701D898749009142C1 /* din_regular.woff */,
-				16C87E711D898749009142C1 /* mubert.svg */,
-				16C87E721D898749009142C1 /* mubert.woff */,
-				16C87E731D898749009142C1 /* mubert_alchemy.woff */,
-				16C87E741D898749009142C1 /* play.svg */,
+				169351DE1D8AC451008B77BB /* din_bold.ttf */,
+				169351DF1D8AC451008B77BB /* din_light.ttf */,
+				169351E01D8AC451008B77BB /* din_regular.woff */,
+				169351E11D8AC452008B77BB /* Icomoon.ttf */,
+				169351E21D8AC452008B77BB /* mubert.woff */,
+				169351E31D8AC452008B77BB /* mubert_alchemy.woff */,
 			);
-			name = resources;
-			path = ../resources;
-			sourceTree = "<group>";
-		};
-		16C87E871D898768009142C1 /* StreamingKit */ = {
-			isa = PBXGroup;
-			children = (
-				16C87E881D898768009142C1 /* NSMutableArray+STKAudioPlayer.h */,
-				16C87E891D898768009142C1 /* NSMutableArray+STKAudioPlayer.m */,
-				16C87E8A1D898768009142C1 /* STKAudioPlayer.h */,
-				16C87E8B1D898768009142C1 /* STKAudioPlayer.m */,
-				16C87E8C1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.h */,
-				16C87E8D1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.m */,
-				16C87E8E1D898768009142C1 /* STKCoreFoundationDataSource.h */,
-				16C87E8F1D898768009142C1 /* STKCoreFoundationDataSource.m */,
-				16C87E901D898768009142C1 /* STKDataSource.h */,
-				16C87E911D898768009142C1 /* STKDataSource.m */,
-				16C87E921D898768009142C1 /* STKDataSourceWrapper.h */,
-				16C87E931D898768009142C1 /* STKDataSourceWrapper.m */,
-				16C87E941D898768009142C1 /* STKHTTPDataSource.h */,
-				16C87E951D898768009142C1 /* STKHTTPDataSource.m */,
-				16C87E961D898768009142C1 /* STKLocalFileDataSource.h */,
-				16C87E971D898768009142C1 /* STKLocalFileDataSource.m */,
-				16C87E981D898768009142C1 /* STKQueueEntry.h */,
-				16C87E991D898768009142C1 /* STKQueueEntry.m */,
-				16C87E9A1D898768009142C1 /* StreamingKit-Prefix.pch */,
-			);
-			name = StreamingKit;
-			path = Mubert/StreamingKit;
-			sourceTree = "<group>";
-		};
-		16C87EA41D898770009142C1 /* AudioManager */ = {
-			isa = PBXGroup;
-			children = (
-				16C87EA51D898770009142C1 /* AudioManager.h */,
-				16C87EA61D898770009142C1 /* AudioManager.m */,
-			);
-			name = AudioManager;
-			path = Mubert/AudioManager;
+			name = fonts;
+			path = ../resources/fonts;
 			sourceTree = "<group>";
 		};
 		78C398B11ACF4ADC00677621 /* Products */ = {
@@ -408,7 +412,7 @@
 				832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */,
 				00C302DF1ABCB9EE00DB3ED1 /* RCTVibration.xcodeproj */,
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
-				6315690B5DA24BF582B10F63 /* RNVectorIcons.xcodeproj */,
+				BDB5B2D6EC5D4631B497060B /* RNVectorIcons.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -428,7 +432,7 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MubertTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
-				F0AE6D0653DE4119A65768CF /* Resources */,
+				F167D5AA6899499081CEEDA0 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -443,18 +447,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F0AE6D0653DE4119A65768CF /* Resources */ = {
+		F167D5AA6899499081CEEDA0 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				16C87E6D1D898749009142C1 /* resources */,
-				56B081FF3B684481B008347B /* Entypo.ttf */,
-				B83278E300124429B24AD0EC /* EvilIcons.ttf */,
-				7592829CD9BD4DE6B3F9D37A /* FontAwesome.ttf */,
-				1505A55186AF4072B7B2BD54 /* Foundation.ttf */,
-				A304ED59E65549A38AE93FAE /* Ionicons.ttf */,
-				97187D8418F14A018B6529A8 /* MaterialIcons.ttf */,
-				649D42D1FDD1495B85C03387 /* Octicons.ttf */,
-				9CF14EA4DAE745139F6CDAEE /* Zocial.ttf */,
+				169351DD1D8AC451008B77BB /* fonts */,
+				062AAE2830604065829F4153 /* Entypo.ttf */,
+				AD64088A06EF4526991841E2 /* EvilIcons.ttf */,
+				1884DF97996C4D11B4458DB8 /* FontAwesome.ttf */,
+				28D65786AD58499192951762 /* Foundation.ttf */,
+				B3C619AE3B6A40A0B3C0C91B /* Ionicons.ttf */,
+				6F27CDF27ABB4A6690D4E5AD /* MaterialIcons.ttf */,
+				D5D6BFD578AC46499BB32E75 /* Octicons.ttf */,
+				82510ED082C84487AFF0B362 /* Zocial.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -569,8 +573,8 @@
 					ProjectRef = 146833FF1AC3E56700842450 /* React.xcodeproj */;
 				},
 				{
-					ProductGroup = 16C87E531D898726009142C1 /* Products */;
-					ProjectRef = 6315690B5DA24BF582B10F63 /* RNVectorIcons.xcodeproj */;
+					ProductGroup = 169351C31D8ABF74008B77BB /* Products */;
+					ProjectRef = BDB5B2D6EC5D4631B497060B /* RNVectorIcons.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -638,11 +642,11 @@
 			remoteRef = 146834031AC3E56700842450 /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		16C87E611D898726009142C1 /* libRNVectorIcons.a */ = {
+		169351D11D8ABF74008B77BB /* libRNVectorIcons.a */ = {
 			isa = PBXReferenceProxy;
 			fileType = archive.ar;
 			path = libRNVectorIcons.a;
-			remoteRef = 16C87E601D898726009142C1 /* PBXContainerItemProxy */;
+			remoteRef = 169351D01D8ABF74008B77BB /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 		78C398B91ACF4ADC00677621 /* libRCTLinking.a */ = {
@@ -675,21 +679,20 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				983F38B37A954062ACF64D7B /* Entypo.ttf in Resources */,
-				F5EFA474E61644AC9EFD6F30 /* EvilIcons.ttf in Resources */,
-				16C87E7A1D898749009142C1 /* mubert_alchemy.woff in Resources */,
-				1CD73A4682D44FA984EAFE60 /* FontAwesome.ttf in Resources */,
-				16C87E7B1D898749009142C1 /* play.svg in Resources */,
-				16C87E781D898749009142C1 /* mubert.svg in Resources */,
-				16C87E791D898749009142C1 /* mubert.woff in Resources */,
-				AD0458032AD34944AAEEBEF6 /* Foundation.ttf in Resources */,
-				6BA5270579BD43C28C1AF8D0 /* Ionicons.ttf in Resources */,
-				16C87E771D898749009142C1 /* din_regular.woff in Resources */,
-				16C87E751D898749009142C1 /* din_bold.ttf in Resources */,
-				691FD98082AA4FBDA19032B1 /* MaterialIcons.ttf in Resources */,
-				2C84056EB073425EA9AC6C73 /* Octicons.ttf in Resources */,
-				F05E9894069649448AC2AE52 /* Zocial.ttf in Resources */,
-				16C87E761D898749009142C1 /* din_light.ttf in Resources */,
+				7F45BC2BBCE0488182227B63 /* Entypo.ttf in Resources */,
+				D60F04433D364D50AA697A3F /* EvilIcons.ttf in Resources */,
+				169351E91D8AC452008B77BB /* mubert_alchemy.woff in Resources */,
+				D531869062F74E7485B04170 /* FontAwesome.ttf in Resources */,
+				169351E71D8AC452008B77BB /* Icomoon.ttf in Resources */,
+				169351E81D8AC452008B77BB /* mubert.woff in Resources */,
+				BE571F6846F5450D8301E976 /* Foundation.ttf in Resources */,
+				699A7B40BCF3411B84D50DB2 /* Ionicons.ttf in Resources */,
+				169351E61D8AC452008B77BB /* din_regular.woff in Resources */,
+				169351E41D8AC452008B77BB /* din_bold.ttf in Resources */,
+				552CF09C578B44BD93CA24F2 /* MaterialIcons.ttf in Resources */,
+				6B9587F944C74775BC3DD607 /* Octicons.ttf in Resources */,
+				7CCE6F2ACC6749A99A0B250A /* Zocial.ttf in Resources */,
+				169351E51D8AC452008B77BB /* din_light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -725,18 +728,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				16C87E9C1D898768009142C1 /* STKAudioPlayer.m in Sources */,
-				16C87E9F1D898768009142C1 /* STKDataSource.m in Sources */,
-				16C87E9D1D898768009142C1 /* STKAutoRecoveringHTTPDataSource.m in Sources */,
-				16C87EA11D898768009142C1 /* STKHTTPDataSource.m in Sources */,
+				169351B71D8ABE04008B77BB /* STKLocalFileDataSource.m in Sources */,
+				169351B21D8ABE04008B77BB /* STKAutoRecoveringHTTPDataSource.m in Sources */,
+				169351B01D8ABE04008B77BB /* NSMutableArray+STKAudioPlayer.m in Sources */,
+				169351B31D8ABE04008B77BB /* STKCoreFoundationDataSource.m in Sources */,
+				169351B51D8ABE04008B77BB /* STKDataSourceWrapper.m in Sources */,
+				169351AF1D8ABE04008B77BB /* AudioManager.m in Sources */,
+				169351B61D8ABE04008B77BB /* STKHTTPDataSource.m in Sources */,
+				169351B11D8ABE04008B77BB /* STKAudioPlayer.m in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
-				16C87E9B1D898768009142C1 /* NSMutableArray+STKAudioPlayer.m in Sources */,
-				16C87EA71D898770009142C1 /* AudioManager.m in Sources */,
-				16C87EA31D898768009142C1 /* STKQueueEntry.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
-				16C87E9E1D898768009142C1 /* STKCoreFoundationDataSource.m in Sources */,
-				16C87EA01D898768009142C1 /* STKDataSourceWrapper.m in Sources */,
-				16C87EA21D898768009142C1 /* STKLocalFileDataSource.m in Sources */,
+				169351B41D8ABE04008B77BB /* STKDataSource.m in Sources */,
+				169351B81D8ABE04008B77BB /* STKQueueEntry.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -821,7 +824,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mubert;
 				PRODUCT_NAME = Mubert;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -845,7 +847,6 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.mubert;
 				PRODUCT_NAME = Mubert;
-				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};

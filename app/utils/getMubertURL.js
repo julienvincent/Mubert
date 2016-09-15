@@ -1,20 +1,22 @@
 const rand = max => Math.floor(Math.random() * max);
 
+const Beats = [
+    {name: "AMBIENT", icon: "g", beat: 600},
+    {name: "PSYTRANCE", icon: "c", beat: 1440},
+    {name: "CHILLSTEP", icon: "a", beat: 1400},
+    {name: "LIQUIDFUNK", icon: "e", beat: 1750},
+    {name: "DEEPHOUSE", icon: "b", beat: 1225},
+    {name: "TRAP", icon: "d", beat: 1500},
+]
+export const getGenres = () => Beats
+
 export default targetBeat => {
-    const Beats = [
-        1225,
-        1400,
-        1440,
-        1500,
-        1750,
-        600
-    ]
     const Tones = [
         "C",
         "F"
     ]
 
-    targetBeat = targetBeat || Beats[rand(Beats.length)]
+    targetBeat = targetBeat || Beats[rand(Beats.length)].beat
     const Port = targetBeat == 1750 || targetBeat == 600 ? 49994 : 49995
 
     let Tone = Tones[rand(Tones.length)]

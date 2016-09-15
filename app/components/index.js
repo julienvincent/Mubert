@@ -13,3 +13,9 @@ export const Image = createFactory(ReactNative.Image)
 export const AnimatedView = createFactory(ReactNative.Animated.View)
 export const StatusBar = createFactory(ReactNative.StatusBar)
 export const DatePickerIOS = createFactory(ReactNative.DatePickerIOS)
+
+/**
+ * Components
+ */
+export IconButton from './IconButton/IconButton'
+export FloatingM from './FloatingM/FloatingM'
