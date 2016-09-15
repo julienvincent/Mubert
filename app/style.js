@@ -37,13 +37,6 @@ export default StyleSheet.create({
         opacity: .9
     },
 
-    controls: {
-        flexDirection: "row",
-        alignItems: "center",
-        justifyContent: "center",
-        marginBottom: 15,
-        height: 20
-    },
     controlIcon: {
         color: "white",
         opacity: .6,

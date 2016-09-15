@@ -82,20 +82,11 @@ class App extends Component {
 
                 View({style: styles.content},
                     isPlaying(
-                        FloatingM(),
+                        IconButton({onPress: this.togglePlay},
+                            FloatingM()
+                        ),
                         IconButton({onPress: this.togglePlay},
                             IcomoonIcon({style: styles.icon, name: "play"})
-                        )
-                    )
-                ),
-
-                View({style: styles.controls},
-                    isPlaying(
-                        IconButton({onPress: this.togglePlay},
-                            Icon({
-                                name: "pause",
-                                style: styles.controlIcon
-                            })
                         )
                     )
                 ),
